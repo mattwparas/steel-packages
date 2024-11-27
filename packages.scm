@@ -1,3 +1,5 @@
+(provide package-index)
+
 (define package-index
   (hash 'steel-postgres
         "https://github.com/mattwparas/steel-postgres"
