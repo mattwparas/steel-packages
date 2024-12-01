@@ -32,4 +32,6 @@
         'steel/tests
         (hash #:url "https://github.com/mattwparas/steel" #:path "cogs/tests")
         'steel/coop
-        (hash #:url "https://github.com/mattwparas/steel" #:path "cogs/coop")))
+        (hash #:url "https://github.com/mattwparas/steel" #:path "cogs/coop")
+        'installer
+        (hash #:url "https://github.com/mattwparas/steel" #:path "cogs/installer")))
