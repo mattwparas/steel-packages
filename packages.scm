@@ -7,6 +7,8 @@
         (hash #:url "https://github.com/mattwparas/steel-datafusion")
         'steel-sqlite
         (hash #:url "https://github.com/mattwparas/steel" #:path "libs/steel-sqlite")
+        'steel-rustls
+        (hash #:url "https://github.com/mattwparas/steel" #:path "libs/steel-rustls")
         'srfi
         (hash #:url "https://github.com/mattwparas/steel" #:path "cogs/srfi")
         'steel/fs
